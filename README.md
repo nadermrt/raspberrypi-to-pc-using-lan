@@ -1,2 +1,2 @@
 # raspberrypi-to-pc-using-lan
-how to control raspberrypi
+برای نمایش رزبری پای روی لبتاب به وسیله کابل lan خیلی دردسر کشیدم بخاطر همین اینجا مراحلش رو توضیح میدم
